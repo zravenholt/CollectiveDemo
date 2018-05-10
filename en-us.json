@@ -1,0 +1,30 @@
+{
+  "help" : [ {
+    "subTitle" : "Answers to frequently asked questions about your HSA. Makes changes",
+    "title" : "Help",
+    "sections" : [ {
+      "list" : [ {
+        "content" : [ {
+          "subTitle" : "Money saved in your HSA is yours to spend on \"eligible expenses,\" which are medical, dental, vision, and pharmacy purchases. You can spend the money now, or save and grow it as an investment for future healthcare expenses. Remember, eligible expenses and the rules for HSAs are determined by the IRS."
+        }, {
+          "actionTitle" : "Check out the IRS list of eligible expenses now."
+        } ],
+        "contentTitle" : "Put aside money in your HSA for healthcare expenses"
+      }, {
+        "content" : [ {
+          "subTitle" : "Be sure to review which purchases are eligible before you buy anything with your HSA. To get you started, most copays, deductibles, therapy, x-rays, and dental services are considered eligible expenses."
+        }, {
+          "actionTitle" : "Dig in, the list is long!"
+        } ],
+        "contentTitle" : "Eligible expenses include copays, deductibles, Band-Aids, and more"
+      }, {
+        "content" : [ {
+          "subTitle" : "Three types of federal tax savings come with your HSA: tax-free contributions to your account by you or your employer, tax-free interest or investment growth, and tax-free distributions when you pay for eligible expenses. Other state tax rules may apply. There are lots of details and exceptions, so we encourage you to review IRS guidance."
+        }, {
+          "actionTitle" : "Read the IRS guidance about tax savings."
+        } ],
+        "contentTitle" : "Your HSA comes with tax savings"
+      } ]
+    } ]
+  } ]
+}
